@@ -1,0 +1,68 @@
+{
+  "Beer": {
+    "nominal": "a",
+    "img": "https://2.bp.blogspot.com/-g0tX6LwKRvU/UgSL9bM2b9I/AAAAAAAAW4g/j8GETOhjCCA/s800/drink_beer.png",
+    "onFail": "Oh no!\nYou didn't write a name for the beer.\nA dog came and stole it from you...",
+    "onFailImg": "https://2.bp.blogspot.com/-8V4Jc_lywJs/WdyDJT-AaYI/AAAAAAABHZw/2P4_nABIwZAKK9iVICeFplFCW7yZxNXlQCLcBGAs/s800/animal_yopparai_dog.png"
+  },
+  "Bento": {
+    "nominal": "a",
+    "img": "https://3.bp.blogspot.com/-qm_s-ZvwoIo/WBsAq0pq4TI/AAAAAAAA_VY/lWQ9ln24m4s1zXnza1wzeqb8E4ypk6xPgCLcB/s800/obentou_aisai.png",
+    "onFail": "Oh no!\nYou didn't write a name on the bento.\nYou'll have to eat it alone...",
+    "onFailImg": "https://1.bp.blogspot.com/-JoMGdgbM-hM/W64DU3bOpuI/AAAAAAABPF4/H-3K9sKnlgU84WXk0C5ek_s7343C0M1CQCLcBGAs/s800/bentou_businessman_cry.png"
+  },
+  "Coffee": {
+    "nominal": "a",
+    "img": "https://2.bp.blogspot.com/-M4pnDudAbHk/VyNdKbflzwI/AAAAAAAA6Lk/qzkPe_yZ2pEvol4LDdkItsutyPE9BGQ0gCLcB/s800/coffee07_cafe_macchiato.png",
+    "onFail": "Oh no!\nYou didn't write a name for the coffee.\nYou spilled it on your computer!",
+    "onFailImg": "https://1.bp.blogspot.com/-aqFVQ75FKAY/XQjuJWzCfzI/AAAAAAABTPk/Mxb0ORXi96sYBcF7WCqTQyZlcQNI5JZ5ACLcBGAs/s800/jiko_computer_coffee_kobosu.png"
+  },
+  "Flowers": {
+    "nominal": "some",
+    "img": "https://1.bp.blogspot.com/-pYYdmpk4Ntw/UqmP5fnNhoI/AAAAAAAAbn4/7NBHsK1smys/s800/hanataba.png",
+    "onFail": "Oh no!\nYou didn't write a name for the flowers.\nSomeone came and took them!",
+    "onFailImg": "https://3.bp.blogspot.com/-O7dTlGcW_H8/WD_cPy4BSaI/AAAAAAABABU/p-tHxRaQUP8v7HaJprgFr7YPgNmOdYJMwCLcB/s800/flower_hana_dorobou.png"
+  },
+  "Hug": {
+    "nominal": "a",
+    "img": "https://i.pinimg.com/originals/81/26/d7/8126d7f1dc34a0c08877bc47741d521e.gif",
+    "onFail": "Oh no!\nYou didn't write a name for the hug.\nYour hug has to go somewhere!",
+    "onFailImg": "https://i.pinimg.com/originals/93/58/3e/93583e0cc2340a97b71024ac58a3f901.gif"
+  },
+  "Pudding": {
+    "nominal": "some",
+    "img": "https://3.bp.blogspot.com/-0TOOVqs3PYY/XDXcPduNPoI/AAAAAAABRIQ/TPCVD1EthGocp-9TBG_rn7F43coNOtn5ACLcBGAs/s800/sweets_purin_normal.png",
+    "onFail": "Oh no!\nYou didn't write a name on the pudding.\nIt's too difficult to open by yourself...",
+    "onFailImg": "https://2.bp.blogspot.com/-uWlOMDpBfY4/WhIp740G8TI/AAAAAAABIKs/JuehTn3kt_4mqa50s_hidbXKy5fr_2ZBwCLcBGAs/s800/sweets_purin_pucchin.png"
+  },
+  "Ramen": {
+    "nominal": "some",
+    "img": "https://4.bp.blogspot.com/-tx51nhX1oe0/UrlnHHMna-I/AAAAAAAAcN8/cBOiw8055XI/s800/ramen_shio.png",
+    "onFail": "Oh no!\nYou didn't write a name for the ramen.\nYou'll have to eat it alone...",
+    "onFailImg": "https://4.bp.blogspot.com/-DtyxshmItwI/V8jqZiXYqtI/AAAAAAAA9eg/cS07hZgqEwIj_U-XrrJq2XoHLibtQ048ACLcB/s800/counter_ramen_man.png"
+  },
+  "Smile": {
+    "nominal": "a",
+    "img": "https://4.bp.blogspot.com/-BTeWi_tF2MA/Wn1ZUjGnhzI/AAAAAAABKLA/EME9C49QQgkW9gYkLn7iKDP7JAOGxQjqgCLcBGAs/s800/animal_smile_usagi.png",
+    "onFail": "Oh no!\nYou didn't write a name for the smile.\nNo one was there to see it...",
+    "onFailImg": "https://4.bp.blogspot.com/-7bFiFJ5ZQBI/VahRt66smVI/AAAAAAAAvwM/OOy5dvZt0kI/s800/pose_nigawarai_man.png"
+  },
+  "Tapioca Drink": {
+    "nominal": "some",
+    "img": "https://4.bp.blogspot.com/-_qIIN7VtgoE/XJB407dqyoI/AAAAAAABR6U/BaFUOTbYT7E85X2VD-7ZDQQwJTqi1_jZQCLcBGAs/s800/drink_tapioca_white.png",
+    "onFail": "Oh no!\nYou didn't write a name for the tapioca drink.\n...and you changed into a one!",
+    "onFailImg": "https://1.bp.blogspot.com/-TqPSi2s8dls/XaKa0zCO5II/AAAAAAABVjE/N05ku6clyMERi3kic_gQq_-BepkMcI2HgCNcBGAsYHQ/s400/character_sweets_tapioca_drink.png"
+  },
+  "Water": {
+    "nominal": "some",
+    "img": "https://4.bp.blogspot.com/-R6XFB59rFy0/UUhH63l9q-I/AAAAAAAAO5c/xa-LPMTzgpE/s1600/bousai_water.png",
+    "onFail": "Oh no!\nYou didn't write a name on the water.\nNow you have to drink it yourself!",
+    "onFailImg": "https://1.bp.blogspot.com/-kSyLPNjWUYk/VhHgi3TKqSI/AAAAAAAAy_M/IG3RJXF37R8/s800/mizu_chuudoku.png"
+  },
+  "Weed": {
+    "nominal": "some",
+    "img": "https://1.bp.blogspot.com/-BYe1niLvSWM/VeQZxe5gCWI/AAAAAAAAxJY/izJMDBFH0tk/s800/drug_taima_ha.png",
+    "onFail": "Oh no!\nYou didn't write a name for the weed.\nYou smoke it... then do cocaine... and more...\nNow you have a drug problem! (〃＞＿＜;〃)",
+    "onFailImg": "https://4.bp.blogspot.com/-vJLk7NjPrBk/VdL1EHoGyHI/AAAAAAAAw44/cFreawVQQlo/s800/drug_yakubutsu_mayaku_ranyou.png"
+  }
+}

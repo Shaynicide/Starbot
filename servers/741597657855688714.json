@@ -1,0 +1,52 @@
+{
+  "name": "🐼パンダ楽園",
+  "settings": {
+    "autoDelete": "off",
+    "banNotice": {
+      "enabled": false,
+      "channel": ""
+    },
+    "greetings": {
+      "enter": {
+        "channel": "",
+        "message": "",
+        "useCard": true
+      },
+      "exit": {
+        "channel": "",
+        "message": "",
+        "useCard": true
+      }
+    },
+    "warnings": {
+      "role": "",
+      "channel": "",
+      "maxWarnings": 2,
+      "users": []
+    }
+  },
+  "addRooms": [],
+  "tempRooms": [],
+  "inventory": {
+    "220763215355707394": {
+      "coins": 18,
+      "items": {}
+    },
+    "740184313399738510": {
+      "coins": 1,
+      "items": {}
+    },
+    "400299954763202571": {
+      "coins": 1,
+      "items": {}
+    },
+    "701309046891872346": {
+      "coins": 1,
+      "items": {}
+    },
+    "405626981070274562": {
+      "coins": 1,
+      "items": {}
+    }
+  }
+}

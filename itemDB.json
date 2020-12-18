@@ -1,0 +1,110 @@
+{
+  "Orb Shard": {
+    "name": "Orb Shard",
+    "id": "orbShard",
+    "description": "Broken, just like your dreams.",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": 1,
+    "rarity": "C",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://4.bp.blogspot.com/-2VsoOfzVTtc/VGLLbeWxCuI/AAAAAAAAoyk/3Sw9RdbdtAE/s800/wareta_float_glass.png"
+  },
+
+  "Dull Orb": {
+    "name": "Dull Orb",
+    "id": "dullOrb",
+    "description": "An orb as dull as your ex.",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": 20,
+    "rarity": "A",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://1.bp.blogspot.com/-WzitCKhVqno/VJF_UwQOAbI/AAAAAAAAp1k/qX7_AOq-294/s800/ball05_blue.png"
+  },
+  
+"Shiny Orb": {
+    "name": "Shiny Orb",
+    "id": "shinyOrb",
+    "description": "It shines brighter than your future.",
+    "materials": {
+      "Orb Shard": 10
+    },
+    "buyPrice": "N/A",
+    "sellPrice": 500,
+    "rarity": "S",
+    "rate": 0.2,
+    "onFail": "Dull Orb",
+    "img": "https://1.bp.blogspot.com/-3TJ-iA8VShE/WhUh-E2Y1GI/AAAAAAABIPA/4shIy5hu6kQPiwdaV56ej5hNqmNSbqwdgCLcBGAs/s800/glass_ball8_blue.png"
+  },
+
+"Rotten Pudding": {
+    "name": "Rotten Pudding",
+    "id": "badPudding",
+    "description": "Someone left this out in the sun.",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": 0,
+    "rarity": "E",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://1.bp.blogspot.com/-ZZV4nNMNRS0/XLAdgT6fMjI/AAAAAAABSZE/G5m6chMJcFoxnQVOXWwt027cKYdswWYGQCLcBGAs/s800/sweets_purin_goma.png"
+  },
+
+"Pudding": {
+    "name": "Pudding",
+    "id": "pudding",
+    "description": "Sweet, delicious, and bad for your health.",
+    "materials": {
+      "Rotten Pudding": 10
+    },
+    "buyPrice": 20,
+    "sellPrice": 10,
+    "rarity": "C",
+    "rate": 0.5,
+    "onFail": "Rotten Pudding",
+    "img": "https://3.bp.blogspot.com/-0TOOVqs3PYY/XDXcPduNPoI/AAAAAAABRIQ/TPCVD1EthGocp-9TBG_rn7F43coNOtn5ACLcBGAs/s800/sweets_purin_normal.png"
+  },
+
+"Fake Coin": {
+    "name": "Fake Coin",
+    "id": "fakeCoin",
+    "description": "A coin faker than your friends.",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": 0,
+    "rarity": "D",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://2.bp.blogspot.com/-4bD-h0K8UXI/WkR93i64PcI/AAAAAAABJVs/-6DV51Y_8Oo5q5HqoJKXZp8VoxymP8xAACLcBGAs/s800/money_kasoutsuuka_kasou.png"
+  },
+
+"Mysterious Box": {
+    "name": "Mysterious Box",
+    "id": "mysteriousBox",
+    "description": "What's inside? Who knows! *Who cares...*",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": 150,
+    "rarity": "S",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://1.bp.blogspot.com/-NJfO-Paho9M/X4aVl65pnNI/AAAAAAABbw8/PThPJC37bdU3kQ1uYAdflUV-9xdgnKfEACNcBGAsYHQ/s769/kyoto_fukudama_open.png"
+  },
+
+"Empty Capsule": {
+    "name": "Empty Capsule",
+    "id": "nothing",
+    "description": "There's nothing inside... like you.",
+    "materials": "N/A",
+    "buyPrice": "N/A",
+    "sellPrice": "N/A",
+    "rarity": "N/A",
+    "rate": "N/A",
+    "onFail": "N/A",
+    "img": "https://lh3.googleusercontent.com/proxy/faWXH8tG82dIggipNmENJCjOJUKfm9GanV1yfbft8ry1wVr0tRCsmy4JczzEK9YCKKDbs9NT5a9z_2IC3WdRdrvkgEARJezdd2rwE6H_miXSmvP72vqfiUO79JzcpXow3H0Z"
+  }
+
+}

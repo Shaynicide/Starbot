@@ -1,0 +1,33 @@
+{
+  "1": {
+    "Rotten Pudding": 0.25,
+    "Empty Capsule": 0.40,
+    "1 Coin": 0.25,
+    "2 Coins": 0.15
+  },
+
+  "10": {
+    "Rotten Pudding": 0.20,
+    "Empty Capsule": 0.35,
+    "10 Coin": 0.30,
+    "20 Coins": 0.15
+  },
+
+  "100": {
+    "Rotten Pudding": 0.10,
+    "Pudding": 0.15,
+    "Empty Capsule": 0.25,
+    "100 Coins": 0.25,
+    "200 Coins": 0.15,
+    "Orb Shard": 0.10
+  },
+
+  "1000": {
+    "Empty Capsule": 0.10,
+    "1000 Coins": 0.55,
+    "2000 Coins": 0.10,
+    "Shiny Orb": 0.05,
+    "Fake Coin": 0.10,
+    "500 Coins": 0.10
+  }
+}
